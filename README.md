@@ -1,1 +1,1 @@
-My first readme this is an update of README.md
+My first readme.  This is an updated README.md
